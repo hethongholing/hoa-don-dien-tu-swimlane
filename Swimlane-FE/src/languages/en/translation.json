@@ -1,0 +1,101 @@
+{
+    "brand": "Pharma News",
+    "subtitle": "Learning together, shaping the future",
+    "nav": {
+      "home": "Home",
+      "blog": "Blog",
+      "about": "About"
+    },
+    "welcome": "Welcome to my website",
+    "changeLanguage": "Change language",
+
+    "auth": {
+      "login": "Login",
+      "logout": "Logout"
+    },
+  
+    "footer": {
+      "company": "Inner Pieces",
+      "contactTitle": "Contact",
+      "contactSubtitle": "Ask me anything",
+      "firstName": "First Name *",
+      "lastName": "Last Name *",
+      "email": "Email *",
+      "message": "Leave Us a Message...",
+      "placeholderMessage": "Your message here...",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again.",
+      "firstNameRequired": "First name is required",
+      "lastNameRequired": "Last name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "messageRequired": "Message is required",
+      "phone": "123-456-7890",
+      "emailInfo": "info@mysite.com",
+      "copyright": "© 2035 by Inner Pieces.",
+      "poweredBy": "Powered and secured by Wix"
+    },
+  
+    "blogSection": {
+      "title": "My Thoughts",
+      "allPosts": "All Posts",
+      "samplePostTitle": "The latest and most in-depth information in the field of Pharmacy",
+      "samplePostSubtitle": "A trusted academic space where students, pharmacists, and enthusiasts can update their professional knowledge, access new research, and find practical insights to support both learning and professional practice."
+    },
+  
+    "recentPosts": {
+      "title": "Recent Posts",
+      "loading": "Loading posts...",
+      "error": "Error",
+      "seeall": "See all"
+    },
+  
+    "quote": {
+      "defaultText": "Knowledge about health is the first step toward a healthier, better life.",
+      "author": "Pharma News",
+      "source": "Editorial Team"
+    },
+  
+    "about": {
+      "greeting": {
+        "morning": "Good Morning",
+        "afternoon": "Good Afternoon",
+        "evening": "Good Evening"
+      },
+      "title": "Welcome to Pharma News – A place to share knowledge, experiences, and insights about healthcare and everything that helps improve well-being.",
+      "description": "Pharma News is a trusted platform for sharing medical knowledge and information, where you can stay updated with the latest news, explore professional insights, and discover real-life stories in the pharmaceutical field. We provide high-quality content to enhance understanding and support the community in healthcare.",
+      "readMore": "Read More",
+      "content": {
+        "greeting": "Hello everyone",
+        "paragraph1": "Welcome to Pharma News – your source for the latest updates in the pharmaceutical field.",
+        "paragraph2": "Pharma News was founded with the mission of creating a reliable academic space where readers can find in-depth knowledge of pharmacology and clinical pharmacy. In addition, we also bring engaging stories and practical insights to help readers gain a broader perspective on life and work in the profession.",
+        "paragraph3": "Pharma News aspires to become a trusted academic channel, accompanying readers on their journey of learning and professional development."
+      }
+    },
+
+    "blog": {
+      "filters": {
+        "all": "All",
+        "recent": "Recent",
+        "news": "News",
+        "academic": "Academic Corner",
+        "stories": "Side Stories"
+      }
+    },
+
+    "comments": {
+      "title": "Comments",
+      "request": "Log in to publish as a member",
+      "publish": "Publish",
+      "cancel": "Cancel",
+      "logtopublish": "Login to Publish",
+      "please": "Please log in to write a comment...",
+      "write": "Write a comment...",
+      "loading": "Loading comments...",
+      "nocomment": "No comments yet. Be the first to share your thoughts!",
+      "comment": "Comment as"
+    }
+  }
+  

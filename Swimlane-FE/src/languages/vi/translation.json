@@ -1,0 +1,101 @@
+{
+    "brand": "Tin tức Dược",
+    "subtitle": "Cùng nhau học hỏi, định hình tương lai",
+    "nav": {
+      "home": "Trang chủ",
+      "blog": "Bài viết",
+      "about": "Giới thiệu"
+    },
+    "welcome": "Chào mừng bạn đến với website của tôi",
+    "changeLanguage": "Đổi ngôn ngữ",
+
+    "auth": {
+      "login": "Đăng nhập",
+      "logout": "Đăng xuất"
+    },
+  
+    "footer": {
+      "company": "Inner Pieces",
+      "contactTitle": "Liên hệ",
+      "contactSubtitle": "Hãy hỏi tôi bất cứ điều gì",
+      "firstName": "Tên *",
+      "lastName": "Họ *",
+      "email": "Email *",
+      "message": "Để lại lời nhắn cho chúng tôi...",
+      "placeholderMessage": "Nhập tin nhắn của bạn...",
+      "submit": "Gửi",
+      "sending": "Đang gửi...",
+      "success": "Gửi tin nhắn thành công!",
+      "error": "Gửi thất bại, vui lòng thử lại.",
+      "firstNameRequired": "Vui lòng nhập tên",
+      "lastNameRequired": "Vui lòng nhập họ",
+      "emailRequired": "Vui lòng nhập email",
+      "emailInvalid": "Email không hợp lệ",
+      "messageRequired": "Vui lòng nhập tin nhắn",
+      "phone": "123-456-7890",
+      "emailInfo": "info@mysite.com",
+      "copyright": "© 2035 bởi Inner Pieces.",
+      "poweredBy": "Vận hành và bảo mật bởi Wix"
+    },
+  
+    "blogSection": {
+      "title": "Suy ngẫm của tôi",
+      "allPosts": "Tất cả bài viết",
+      "samplePostTitle": "Những thông tin mới nhất và chuyên sâu trong lĩnh vực Dược học",
+      "samplePostSubtitle": "Một không gian học thuật uy tín, nơi sinh viên, dược sĩ và những người quan tâm có thể cập nhật kiến thức chuyên môn, tiếp cận các nghiên cứu mới, cũng như tìm thấy những chia sẻ thực tiễn hữu ích phục vụ cho học tập và công việc."
+    },
+  
+    "recentPosts": {
+      "title": "Bài viết gần đây",
+      "loading": "Đang tải bài viết...",
+      "error": "Có lỗi xảy ra",
+      "seeall": "Xem tất cả"
+    },
+  
+    "quote": {
+      "defaultText": "Kiến thức về sức khỏe là bước đầu tiên hướng đến một cuộc sống tốt đẹp và khỏe mạnh hơn.",
+      "author": "Pharma News",
+      "source": "Nhóm Biên Tập"
+    },
+  
+    "about": {
+      "greeting": {
+        "morning": "Chào buổi sáng",
+        "afternoon": "Chào buổi chiều",
+        "evening": "Chào buổi tối"
+      },
+      "title": "Chào mừng bạn đến với Pharma News – Nơi chia sẻ kiến thức, trải nghiệm và những hiểu biết về y tế và mọi thứ giúp nâng cao sức khỏe.",
+      "description": "Pharma News là nền tảng chia sẻ kiến thức và thông tin y tế đáng tin cậy, nơi bạn có thể cập nhật tin tức, tìm hiểu kiến thức chuyên môn và khám phá những câu chuyện thực tế trong ngành Dược. Chúng tôi mang đến nguồn thông tin chất lượng, giúp nâng cao hiểu biết và hỗ trợ cộng đồng trong việc chăm sóc sức khỏe.",
+      "readMore": "Xem thêm",
+      "content": {
+        "greeting": "Xin chào mọi người",
+        "paragraph1": "Chào mừng bạn đến với Pharma News – nơi cập nhật những điểm tin mới nhất về ngành Dược.",
+        "paragraph2": "Pharma News được thành lập với sứ mệnh tạo ra một không gian học thuật đáng tin cậy, nơi bạn đọc có thể tìm thấy những kiến thức chuyên sâu về Dược lý và Dược lâm sàng. Bên cạnh đó, chúng tôi cũng mang đến những câu chuyện thú vị và chia sẻ hữu ích, góp phần giúp bạn đọc có thêm góc nhìn về cuộc sống và công việc trong ngành.",
+        "paragraph3": "Pharma News kỳ vọng sẽ trở thành một kênh thông tin học thuật uy tín, đồng hành cùng bạn đọc trên con đường học tập và làm việc."
+      }
+    },
+
+    "blog": {
+      "filters": {
+        "all": "Tất cả",
+        "recent": "Gần đây",
+        "news": "Điểm tin",
+        "academic": "Góc học thuật",
+        "stories": "Chuyện bên lề"
+      }
+    },
+
+    "comments": {
+      "title": "Bình luận",
+      "request": "Đăng nhập để bình luận với tư cách thành viên",
+      "publish": "Đăng",
+      "cancel": "Hủy",
+      "logtopublish": "Đăng nhập để đăng",
+      "please": "Đăng nhập để nhập bình luận...",
+      "write": "Nhập bình luận...",
+      "loading": "Đang tải bình luận...",
+      "nocomment": "Chưa có bình luận nào. Hãy là người đầu tiên chia sẻ suy nghĩ của bạn!",
+      "comment": "Bình luận với tư cách"
+    }
+  }
+  
